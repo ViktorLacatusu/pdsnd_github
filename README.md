@@ -1,17 +1,19 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+18.01.2022
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+With the help of a Python script, bicycle rental data should be filtered and analyzed.
+The script "bikeshare.py" should calculate statistics and offer the user various filter options to limit the data sets accordingly.
+The data set for the respective city (Chicago, Washington, New York City) is stored in a CSV file and could be loaded by "load_data.py".
 
 ### Files used
-Include the files used
+bikeshare.py
+load_data.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The following repo was used as a template:
+https://github.com/udacity/pdsnd_github
 
