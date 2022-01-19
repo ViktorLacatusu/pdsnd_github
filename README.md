@@ -4,6 +4,12 @@
 ### Project Title
 Explore US Bikeshare Data
 
+### Project Lead
+Name: Viktor
+Surname: Lacatusu
+Mail: Viktor.Lacatusu@bmw.de
+
+
 ### Description
 With the help of a Python script, bicycle rental data should be filtered and analyzed.
 The script "bikeshare.py" should calculate statistics and offer the user various filter options to limit the data sets accordingly.
